@@ -23,7 +23,7 @@ Review guests' perceptions of our broadband and TV facilities, as well as their 
 <strong>Actionable Insights:</strong> Focus on enhancing services related to [purpose], further investigate any areas of dissatisfaction, and consider tailoring offerings to cater to the specific preferences of each gender group.
 <h2>Author</h2>
 Shahriar Kabir ©2024. All rights reserved</br>
-<a href="https://twitter.com/SHAHRIAR7651">Follow @SHAHRIAR7651 on Twitter</a>
+<a href="https://twitter.com/SHAHRIAR7651">Follow @SHAHRIAR7651</a>
 
 <h2>Contact me!</h2>
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at <a href="https://twitter.com/SHAHRIAR7651"> @SHAHRIAR7651 on Twitter</a>
